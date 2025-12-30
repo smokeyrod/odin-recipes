@@ -43,10 +43,6 @@ li {
     color: #00A86B;
 }
 
-.recipe img {
-    width: 400px;
-}
-
 .recipe .recipe-title {
     position: sticky;
     background: #FFFFFF;
